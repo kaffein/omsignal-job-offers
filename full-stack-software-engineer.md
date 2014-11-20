@@ -95,9 +95,11 @@ a look at what you like doing
 (even if you feel ashamed of it in retrospective -- explain us 
 what you would improve now)
  
- 
-[1] http://www.omsignal.com/blogs/omsignal-blog/14669049-omsignal-raises-10-million-series-a-round-from-bessemer-venture-partners
-[2] http://venturebeat.com/2014/04/16/brave-new-wearable-world-crowdsourcing-health-and-the-coming-battle-of-bio-signals/
-[3] https://www.youtube.com/watch?v=zipGvqaSJiE
-[4] http://www.reactivemanifesto.org/
-[5] http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/ref=sr_1_1?ie=UTF8&qid=1416355343&sr=8-1&keywords=Antifragile
+
+Footnotes
+--------- 
+ - [1] http://www.omsignal.com/blogs/omsignal-blog/14669049-omsignal-raises-10-million-series-a-round-from-bessemer-venture-partners
+ - [2] http://venturebeat.com/2014/04/16/brave-new-wearable-world-crowdsourcing-health-and-the-coming-battle-of-bio-signals/
+ - [3] https://www.youtube.com/watch?v=zipGvqaSJiE
+ - [4] http://www.reactivemanifesto.org/
+ - [5] http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/ref=sr_1_1?ie=UTF8&qid=1416355343&sr=8-1&keywords=Antifragile
