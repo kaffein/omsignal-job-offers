@@ -8,7 +8,7 @@ Data/Bio Scientists, Hardware, Firmware and
 Software Engineers. Please note that this offer is mostly focused on 
 Full Stack Engineers, but we are also looking to 
 hire smart Data Scientists who have an interest in biodata and possibly 
-people who could help bridging BLE/MSP firmware and driver development.
+people who could help bridging `BLE`/`MSP` firmware and driver development.
  
 What we do
 ----------
@@ -89,7 +89,7 @@ opportunities working with us, you can
 reach out to dev@omsignal.com
 come hang out on IRC (`irc.freenode.net #omsignal`) to ask your questions
  
-If you have a github/bitbucket account, we would love to take
+If you have a `github`/`bitbucket` account, we would love to take
 a look at what you like doing 
 (even if you feel ashamed of it in retrospective -- explain us 
 what you would improve now)
