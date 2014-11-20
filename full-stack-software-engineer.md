@@ -1,8 +1,7 @@
 OMsignal Full Stack Software Engineer [REMOTE or LOCAL]
 =======================================================
 
-OMsignal, Montreal | http://www.omsignal.com - 
-Full Stack Scala/iOS/NodeJS/Machine Learning/etc Software Engineer [REMOTE or LOCAL]
+Headquarters: Montreal | http://www.omsignal.com
  
 OMsignal is made possible by the expertise of Smart Textile experts, 
 Data/Bio Scientists, Hardware, Firmware and 
