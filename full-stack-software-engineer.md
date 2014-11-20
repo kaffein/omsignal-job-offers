@@ -52,10 +52,10 @@ And of course, you need to speak/write english fluently
 The Technologies we currently use
 ---------------------------------
  
- - Backend (`Scala`, `Akka`, `Akka Persistence`, `Spray`, `ReactiveMongo`, `SBT`, `Kafka`, `ZooKeeper`)
- - Web (`NodeJS`, `AngularJS`)
- - iOS (`Swift`, `Objective C`, `ReactiveCocoa`, `Core Bluetooth`, `CocoaPods` )
- - DevOps (`Ubuntu`, `Docker`, `Ruby`, `Amazon AWS/EC2`)
+ - Backend : `Scala`, `Akka`, `Akka Persistence`, `Spray`, `ReactiveMongo`, `SBT`, `Kafka`, `ZooKeeper`
+ - Web : `NodeJS`, `AngularJS`
+ - iOS : `Swift`, `Objective C`, `ReactiveCocoa`, `Core Bluetooth`, `CocoaPods` 
+ - DevOps : `Ubuntu`, `Docker`, `Ruby`, `Amazon AWS/EC2`
  - Project management: `git`/`github`
  
 The `iOS` stack is more sophisticated than the average iOS App. 
