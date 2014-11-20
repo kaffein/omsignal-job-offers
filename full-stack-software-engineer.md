@@ -30,10 +30,10 @@ What we are looking for
  
 We are looking for Full Stack system basedSoftware Engineers who can 
 help us to architect, design and implement a complex  
-on bleeding edge technologies (Scala, Akka, Spray, Reactive Programming[4], 
-iOS Swift, Docker...) a modern architectural 
-style (Micro Services, CQRS, Event Sourcing, Eventual Consistency), 
-and a clean codebase (Clean Code,Domain Driven Design…) -- emphasis on 
+on bleeding edge technologies (`Scala`, `Akka`, `Spray`, `Reactive Programming` [4], 
+`iOS`, `Swift`, `Docker`...) a modern architectural 
+style (`Micro Services`, `CQRS`, `Event Sourcing`, `Eventual Consistency`), 
+and a clean codebase (`Clean Code`, `Domain Driven Design`…) -- emphasis on 
 the “Engineer” over the “Full Stack” part.
  
 In-depth knowledge of the technologies we use is not required, but 
@@ -44,7 +44,7 @@ written is an absolute must.
  
 You should be willing to face the upcoming challenges 
 (Machine Learning, Predictive algorithms, 
-Opening the platform/iOS SDK/API, -- who knows the rest?…). 
+Opening the platform/`iOS SDK`/`API`, -- who knows the rest?…). 
  
 And of course, you need to speak/write english fluently 
 (we need to understand each other, right ?)
@@ -52,17 +52,17 @@ And of course, you need to speak/write english fluently
 The Technologies we currently use
 ---------------------------------
  
-Backend (Scala, Akka, Akka Persistence, Spray, ReactiveMongo, SBT, Kafka, ZooKeeper)
-Web (NodeJS, AngularJS)
-iOS (Swift, Objective C, ReactiveCocoa, Core Bluetooth, CocoaPods )
-DevOps (Ubuntu, Docker, Ruby, Amazon AWS/EC2)
-Project management: git/github
+Backend (`Scala`, `Akka`, `Akka Persistence`, `Spray`, `ReactiveMongo`, `SBT`, `Kafka`, `ZooKeeper`)
+Web (`NodeJS`, `AngularJS`)
+iOS (`Swift`, `Objective C`, `ReactiveCocoa`, `Core Bluetooth`, `CocoaPods` )
+DevOps (`Ubuntu`, `Docker`, `Ruby`, `Amazon AWS/EC2`)
+Project management: `git`/`github`
  
-The iOS stack is more sophisticated than the average iOS App. 
-It includes a Pub/Sub system similar 
-to Apache Kafka (that we call iOS Kafka internally), 
+The `iOS` stack is more sophisticated than the average iOS App. 
+It includes a `Pub/Sub` system similar 
+to `Apache Kafka` (that we call iOS Kafka internally), 
 makes heavy use of 
-asynchronous programming + CQRS/Event Sourcing and 
+asynchronous programming + `CQRS`/`Event Sourcing` and 
 computes biometric algorithms and reports. 
  
 Our culture
@@ -87,7 +87,7 @@ Next step
 If you are curious about the project and want to explore 
 opportunities working with us, you can 
 reach out to dev@omsignal.com
-come hang out on IRC (irc.freenode.net #omsignal) to ask your questions
+come hang out on IRC (`irc.freenode.net #omsignal`) to ask your questions
  
 If you have a github/bitbucket account, we would love to take
 a look at what you like doing 
