@@ -12,6 +12,8 @@ people who could help bridging `BLE`/`MSP` firmware and driver development.
  
 What we do
 ----------
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/MDa_af2pAdo" frameborder="0" allowfullscreen></iframe>
  
 OMsignal is an exciting Montreal start-up developing a revolutionary 
 line of bio-sensing clothes that connect seamlessly 
