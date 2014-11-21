@@ -23,8 +23,10 @@ technology, well-being and fashion markets.
 We are a well-funded startup [1] working to deliver a smart biometric 
 shirt. You can read more about our mission on [2]. 
 And for those who followed the US Open 2014, we are the technology 
-behind Ralph Laurent Polo Tech [3].
- 
+behind Ralph Laurent Polo Tech :
+
+[![](http://img.youtube.com/vi/XHECZDy_ctg/0.jpg)](//www.youtube.com/embed/XHECZDy_ctg)
+
 We just shipped the product to our first customers.
  
 What we are looking for
@@ -32,7 +34,7 @@ What we are looking for
  
 We are looking for Full Stack Software Engineers who can 
 help us to architect, design and implement a complex system based
-on bleeding edge technologies (`Scala`, `Akka`, `Spray`, `Reactive Programming` [4], 
+on bleeding edge technologies (`Scala`, `Akka`, `Spray`, `Reactive Programming` [3], 
 `iOS`, `Swift`, `Docker`...), a modern architectural 
 style (`Micro Services`, `CQRS`, `Event Sourcing`, `Eventual Consistency`), 
 and a clean codebase (`Clean Code`, `Domain Driven Design`…) -- emphasis on 
@@ -76,7 +78,7 @@ low-coupling (between teams) : small, empowered teams,
 systematic pull requests, developer autonomy.
  
 Our software engineering practices are also influenced 
-by Antifragile [5] principles
+by Antifragile [4] principles
 (Small is Beautiful, Less is more, Hormesis principle, 
 evolutionary darwinism, over-compensation ...)
  
@@ -101,6 +103,5 @@ Footnotes
 --------- 
  - [1] http://www.omsignal.com/blogs/omsignal-blog/14669049-omsignal-raises-10-million-series-a-round-from-bessemer-venture-partners
  - [2] http://venturebeat.com/2014/04/16/brave-new-wearable-world-crowdsourcing-health-and-the-coming-battle-of-bio-signals/
- - [3] https://www.youtube.com/watch?v=zipGvqaSJiE
- - [4] http://www.reactivemanifesto.org/
- - [5] http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/ref=sr_1_1?ie=UTF8&qid=1416355343&sr=8-1&keywords=Antifragile
+ - [3] http://www.reactivemanifesto.org/
+ - [4] http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/ref=sr_1_1?ie=UTF8&qid=1416355343&sr=8-1&keywords=Antifragile
