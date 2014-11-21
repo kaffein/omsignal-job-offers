@@ -28,8 +28,8 @@ We just shipped the product to our first customers.
 What we are looking for
 -----------------------
  
-We are looking for Full Stack system basedSoftware Engineers who can 
-help us to architect, design and implement a complex  
+We are looking for Full Stack Software Engineers who can 
+help us to architect, design and implement a complex system based
 on bleeding edge technologies (`Scala`, `Akka`, `Spray`, `Reactive Programming` [4], 
 `iOS`, `Swift`, `Docker`...) a modern architectural 
 style (`Micro Services`, `CQRS`, `Event Sourcing`, `Eventual Consistency`), 
