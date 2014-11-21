@@ -74,7 +74,7 @@ low-coupling (between teams) : small, empowered teams,
 systematic pull requests, developer autonomy.
  
 Our software engineering practices are also influenced 
-by Antifragile principles [5] 
+by Antifragile [5] principles
 (Small is Beautiful, Less is more, Hormesis principle, 
 evolutionary darwinism, over-compensation ...)
  
