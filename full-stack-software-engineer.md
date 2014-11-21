@@ -18,7 +18,7 @@ line of bio-sensing clothes that connect seamlessly
 to smartphones. The company is at the intersection of the wearable 
 technology, well-being and fashion markets. 
  
-We are a well-funded startup [1] working to deliver a smart biometric 
+We are a [well-funded startup][] working to deliver a smart biometric 
 shirt. You can read more about our mission on [2]. 
 And for those who followed the US Open 2014, we are the technology 
 behind Ralph Laurent Polo Tech [3].
@@ -74,7 +74,7 @@ low-coupling (between teams) : small, empowered teams,
 systematic pull requests, developer autonomy.
  
 Our software engineering practices are also influenced 
-by Antifragile principles [5] 
+by Antifragile [5] principles 
 (Small is Beautiful, Less is more, Hormesis principle, 
 evolutionary darwinism, over-compensation ...)
  
@@ -97,7 +97,7 @@ what you would improve now)
 
 Footnotes
 --------- 
- - [1] http://www.omsignal.com/blogs/omsignal-blog/14669049-omsignal-raises-10-million-series-a-round-from-bessemer-venture-partners
+ - [well-funded startup]: http://www.omsignal.com/blogs/omsignal-blog/14669049-omsignal-raises-10-million-series-a-round-from-bessemer-venture-partners
  - [2] http://venturebeat.com/2014/04/16/brave-new-wearable-world-crowdsourcing-health-and-the-coming-battle-of-bio-signals/
  - [3] https://www.youtube.com/watch?v=zipGvqaSJiE
  - [4] http://www.reactivemanifesto.org/
