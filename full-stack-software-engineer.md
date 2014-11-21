@@ -31,7 +31,7 @@ What we are looking for
 We are looking for Full Stack Software Engineers who can 
 help us to architect, design and implement a complex system based
 on bleeding edge technologies (`Scala`, `Akka`, `Spray`, `Reactive Programming` [4], 
-`iOS`, `Swift`, `Docker`...) a modern architectural 
+`iOS`, `Swift`, `Docker`...), a modern architectural 
 style (`Micro Services`, `CQRS`, `Event Sourcing`, `Eventual Consistency`), 
 and a clean codebase (`Clean Code`, `Domain Driven Design`…) -- emphasis on 
 the “Engineer” over the “Full Stack” part.
