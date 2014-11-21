@@ -86,8 +86,8 @@ Next step
  
 If you are curious about the project and want to explore 
 opportunities working with us, you can 
-reach out to dev@omsignal.com
-come hang out on IRC (`irc.freenode.net #omsignal`) to ask your questions
+ - reach out to dev@omsignal.com
+ - come hang out on IRC (`irc.freenode.net #omsignal`) to ask your questions
  
 If you have a `github`/`bitbucket` account, we would love to take
 a look at what you like doing 
