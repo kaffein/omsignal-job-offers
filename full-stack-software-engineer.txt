@@ -1,7 +1,8 @@
 OMsignal Full Stack Software Engineer [REMOTE or LOCAL]
-=======================================================
 
 Headquarters: Montreal | http://www.omsignal.com
+
+Link to Job Offer: https://github.com/OMsignal/omsignal-job-offers/blob/master/full-stack-software-engineer.md
  
 OMsignal is made possible by the expertise of Smart Textile experts, 
 Data/Bio Scientists, Hardware, Firmware and 
@@ -11,7 +12,6 @@ hire smart Data Scientists who have an interest in biodata and possibly
 people who could help bridging BLE/MSP firmware and driver development.
  
 What we do
-----------
 
 OMsignal is an exciting Montreal start-up developing a revolutionary 
 line of bio-sensing clothes that connect seamlessly 
@@ -26,7 +26,6 @@ behind Ralph Laurent Polo Tech.
 We just shipped the product to our first customers.
  
 What we are looking for
------------------------
  
 We are looking for Full Stack Software Engineers who can 
 help us to architect, design and implement a complex system based
@@ -50,7 +49,6 @@ And of course, you need to speak/write english fluently
 (we need to understand each other, right ?)
  
 The Technologies we currently use
----------------------------------
  
  - Backend : Scala, Akka, Akka Persistence, Spray, ReactiveMongo, SBT, Kafka, ZooKeeper
  - Web : NodeJS, AngularJS
@@ -66,7 +64,6 @@ asynchronous programming + `CQRS`/`Event Sourcing` and
 computes biometric algorithms and reports. 
  
 Our culture
------------
  
 We get some inspiration from the Open Source model to 
 achieve high-cohesion (within teams) and 
@@ -82,7 +79,6 @@ And if you are on the Paleo diet, like hiking/camping or
 enjoy a good raclette you will certainly find friends here!
  
 Next step
----------
  
 If you are curious about the project and want to explore 
 opportunities working with us, you can 
@@ -96,8 +92,8 @@ what you would improve now)
  
 
 Footnotes
---------- 
- - [1] http://www.omsignal.com/blogs/omsignal-blog/14669049-omsignal-raises-10-million-series-a-round-from-bessemer-venture-partners
- - [2] http://venturebeat.com/2014/04/16/brave-new-wearable-world-crowdsourcing-health-and-the-coming-battle-of-bio-signals/
- - [3] http://www.reactivemanifesto.org/
- - [4] http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/ref=sr_1_1?ie=UTF8&qid=1416355343&sr=8-1&keywords=Antifragile
+
+[1] http://www.omsignal.com/blogs/omsignal-blog/14669049-omsignal-raises-10-million-series-a-round-from-bessemer-venture-partners
+[2] http://venturebeat.com/2014/04/16/brave-new-wearable-world-crowdsourcing-health-and-the-coming-battle-of-bio-signals/
+[3] http://www.reactivemanifesto.org/
+[4] http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680/ref=sr_1_1?ie=UTF8&qid=1416355343&sr=8-1&keywords=Antifragile
