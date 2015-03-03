@@ -34,12 +34,6 @@ on bleeding edge technologies (`Scala`, `Akka`, `Spray`, `Reactive Programming` 
 style (`Micro Services`, `CQRS`, `Event Sourcing`, `Eventual Consistency`),
 and a clean codebase (`Clean Code`, `Domain Driven Design`…).
 
-On the Op side of the things, we use `Docker` and `Ruby` to automate everything.
-We orchestrate our docker-ready micro services using an internal ruby tool that we call
-`omfleet`, based on the ideas of CoreOs's fleet and consul.io.
-
-And we use `InfluxDB` for timeseries and metrics.
-
 The Technologies we currently use
 ---------------------------------
 
@@ -49,12 +43,13 @@ The Technologies we currently use
  - DevOps : `Ubuntu`, `Docker`, `Ruby`, `Amazon AWS/EC2`
  - Project management: `git`/`github`
 
-The `iOS` stack is more sophisticated than the average iOS App.
-It includes a `Pub/Sub` system similar
-to `Apache Kafka` (that we call iOS Kafka internally),
-makes heavy use of
-asynchronous programming + `CQRS`/`Event Sourcing` and
-computes biometric algorithms and reports.
+ On the Op side of the things, we use `Docker` and `Ruby` to automate everything on `AWS`/`EC2`.
+ We orchestrate our docker-ready micro services using an internal ruby tool that we call
+ `omfleet`, based on the ideas of CoreOS's fleet and consul.io.
+
+And we use `InfluxDB` for timeseries and metrics, and Elastic Search for monitoring.
+
+Operational constraints are a first-class citizen in our development process, as taking care of them is part of our definition of DONE.
 
 Our culture
 -----------
