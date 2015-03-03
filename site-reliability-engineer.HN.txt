@@ -1,0 +1,12 @@
+OMsignal Site Reliability Engineer [REMOTE or LOCAL]
+
+Headquarters: Montreal | http://www.omsignal.com
+
+Link to full Job Offer: https://github.com/OMsignal/omsignal-job-offers/blob/master/site-reliability-engineer.md
+
+We are looking for a Site Reliability Engineer who can
+help us operate and scale a reactive, event-driven system based
+on bleeding edge technologies (Scala, Akka, Spray, Reactive Programming,
+iOS, Swift, Docker...), a modern architectural
+style (Micro Services, CQRS, Event Sourcing, Eventual Consistency),
+and a clean codebase (Clean Code, Domain Driven Design…).
