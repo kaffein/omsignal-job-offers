@@ -23,7 +23,7 @@ technology, well-being and fashion markets.
 We are a well-funded startup [1] working to deliver a smart biometric 
 shirt. You can read more about our mission on [2]. 
 And for those who followed the US Open 2014, we are the technology 
-behind Ralph Laurent Polo Tech :
+behind Ralph Lauren Polo Tech :
 
 [![](http://img.youtube.com/vi/zipGvqaSJiE/0.jpg)](//www.youtube.com/embed/zipGvqaSJiE)
 
